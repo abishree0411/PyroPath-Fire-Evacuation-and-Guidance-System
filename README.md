@@ -88,9 +88,9 @@ The project aims to provide early fire detection, real-time monitoring, visual a
 
 ## 👥 Team Members
 
-- Jeni Varsha
-- Rupha swarna 
-- Abishree
+- Abishree S
+- Rupha swarna N
+- Jeni Varsha B U
 
 ---
 
